@@ -1,4 +1,13 @@
-## Hi there 👋
+## This is Project Meiroudii
+---
+
+> I use Ruby for most of my projects
+
+
+## How to reach me: 
+---
+Email: Meiroudii@proton.me
+
 
 <!--
 **Meiroudii/Meiroudii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
