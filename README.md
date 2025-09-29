@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=rails,ruby,c,rust,go,neovim,git" alt="my tech stack" />
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiroudii&layout=compact&theme=radical" alt="my stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiroudii&layout=compact" alt="my stats" />
 </div>
 
 ## How to reach me: 
