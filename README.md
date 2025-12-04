@@ -15,11 +15,9 @@
 
 ## My Tech stack
 <div>
-    <img src="https://skillicons.dev/icons?i=rails,ruby,rust" alt="my tech stack" />
+    <img src="https://skillicons.dev/icons?i=rails,tauri" alt="my tech stack" />
 </div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiroudii&layout=donut&theme=dracula" alt="my stats" />
-</div>
+
 
 ## How to reach me: 
 ---
