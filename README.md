@@ -13,6 +13,13 @@ Email: Meiroudii@proton.me
 ---
 
 <div align="center">
+   <a href="https://leetcode.com/u/Meiroudii/">
+    <img 
+      style="height: 180px; width:325px;"
+      height=200
+      align="center"
+      src="https://leetcard.jacoblin.cool/Meiroudii?theme=nord" />
+  </a>
   <a href="https://github.com/meiroudii?tab=repositories">
     <img 
       style="height: 180px; width:325px;"
