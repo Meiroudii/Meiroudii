@@ -1,4 +1,6 @@
-# Meiroudii
+
+<img src="https://www.codewars.com/users/Meiroudii/badges/large" />
+
 ---
 
 Heya! fellow hoomans, I mainly use rails.
@@ -13,12 +15,7 @@ Email: Meiroudii@proton.me
 ---
 
 <div align="center">
-    <a href="https://www.codewars.com/users/Meiroudii">
-    <img 
-      style="height: 180px; width:325px;"
-      height=200
-      align="center"
-      src="https://www.codewars.com/users/Meiroudii/badges/large" />
+        <a href="https://www.codewars.com/users/Meiroudii">
          <img 
       style="height: 180px; width:325px;"
       height=200
